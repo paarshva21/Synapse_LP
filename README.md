@@ -1,2 +1,1 @@
-"# Synapse_LP" 
-"# Synapse_LP" 
+##Synapse Learning Period Tasks.
